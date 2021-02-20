@@ -38,7 +38,7 @@ const GlobalStyles = createGlobalStyle`
         color: var(--black);
     }
     a:hover {
-        text-decoration: underline:
+        text-decoration: underline;
     }
 
     button {
